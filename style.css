@@ -1,0 +1,44 @@
+ .nav-link {
+    font-size: 10px;
+}
+
+body {
+    background: lightgray;
+}
+
+.story {
+    background: white;
+}
+.date {
+    font-size: 9px;
+}
+
+.tag {
+    font-size: 10px;
+}
+
+.img-thumbnail {
+  border-radius: 50%;
+  width: 50%;
+}
+
+.anime {
+    width: 75%;
+}
+
+.post {
+    width: 95%;
+}
+
+.pic {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.bottom-left {
+  opacity: 90%;  
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
